@@ -708,11 +708,10 @@ export default class Autosuggest extends Component {
             });
 
             break;
-            
-          case 9: 
-            break;
 
+          case 9:
           // Enter
+          // eslint-disable-next-line no-fallthrough
           case 13: {
             // See #388
             if (event.keyCode === 229) {
