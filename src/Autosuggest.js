@@ -708,6 +708,9 @@ export default class Autosuggest extends Component {
             });
 
             break;
+            
+          case 9: 
+            break;
 
           // Enter
           case 13: {
