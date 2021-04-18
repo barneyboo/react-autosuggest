@@ -1,13 +1,13 @@
 {
-  "name": "react-autosuggest",
-  "version": "10.1.0",
+  "name": "@barneyboo/react-autosuggest",
+  "version": "10.2.0",
   "description": "WAI-ARIA compliant React autosuggest component",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/moroshko/react-autosuggest.git"
+    "url": "https://github.com/barneyboo/react-autosuggest.git"
   },
-  "author": "Misha Moroshko <michael.moroshko@gmail.com>",
+  "author": "Roo Hutton <roo.hutton@bbc.co.uk>",
   "scripts": {
     "start": "mkdir -p demo/dist && npm run copy-static-files && node server",
     "prettier": "prettier --single-quote --write",

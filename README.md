@@ -1,6 +1,6 @@
 [![Build Status](https://img.shields.io/codeship/41810250-aa07-0132-fbf4-4e62e8945e03/master.svg?style=flat-square)](https://codeship.com/projects/67868)
-[![Contributors](https://img.shields.io/github/contributors/moroshko/react-autosuggest.svg?style=flat-square)](https://github.com/moroshko/react-autosuggest/graphs/contributors)
-[![Coverage Status](https://img.shields.io/codecov/c/github/moroshko/react-autosuggest/master.svg?style=flat-square)](https://codecov.io/gh/moroshko/react-autosuggest)
+[![Contributors](https://img.shields.io/github/contributors/barneyboo/react-autosuggest.svg?style=flat-square)](https://github.com/barneyboo/react-autosuggest/graphs/contributors)
+[![Coverage Status](https://img.shields.io/codecov/c/github/barneyboo/react-autosuggest/master.svg?style=flat-square)](https://codecov.io/gh/barneyboo/react-autosuggest)
 
 [![npm Downloads](https://img.shields.io/npm/dm/react-autosuggest.svg?style=flat-square)](https://npmjs.org/package/react-autosuggest)
 [![npm Version](https://img.shields.io/npm/v/react-autosuggest.svg?style=flat-square)](https://npmjs.org/package/react-autosuggest)
@@ -33,6 +33,8 @@ Check out the [Homepage](http://react-autosuggest.js.org) and the [Codepen examp
 - [Pass through arbitrary props to the input](#input-props-prop) (e.g. placeholder, type, [onChange](#input-props-on-change), [onBlur](#input-props-on-blur), or any other), or [take full control on the rendering of the input](#render-input-component-prop) (useful for integration with other libraries)
 - Thoroughly tested
 
+## Added features in this fork
+- Tabbing a selection is the same as pressing Enter
 ## Installation
 
 ```shell
